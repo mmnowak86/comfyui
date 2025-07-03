@@ -35,7 +35,9 @@ NODES=(
     "https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
     "https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes"
     "https://github.com/M1kep/Comfy_KepListStuff"
+    "https://github.com/M1kep/ComfyLiterals"
     "https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes"
+    "https://github.com/StableDiffusionVN/SDVN_Comfy_node"
 )
 
 CHECKPOINT_MODELS=(
